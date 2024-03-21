@@ -1,0 +1,6 @@
+id,parentId,name,lastName,position
+100,,Buster, Douglas, Heavyweight Champ
+101,100, Mike, Tyson, Iron
+102,100, Lennox, Lewis, Champ
+103,100, George, Foreman, Big
+104,100, Muhammad, Ali, GOAT
